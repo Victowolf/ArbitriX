@@ -169,7 +169,7 @@ On top of the core marketplace, these extra features have already been built:
 
 The full technical design, including every backend module, every MongoDB collection, the gateway/proxy flow, the token limit system, the wallet login sequence, and the complete blockchain design, lives in a separate file so this README stays easy to read.
 
-**[View ARCHITECTURE.md for the complete technical design](./ARCHITECTURE.md)**
+**[View ARCHITECTURE.md for the complete technical design](https://github.com/Victowolf/ArbitriX/blob/main/ArbitriX_Architecture.md)**
 
 A quick summary of how a request travels through the system:
 
